@@ -1,0 +1,4 @@
+
+# Placeholder for dependencies
+# Depending on the final implementation, this will need updating
+requests==2.25.1
